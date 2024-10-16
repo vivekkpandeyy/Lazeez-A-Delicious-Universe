@@ -9,4 +9,5 @@ Functionalities:
 - Clean, modern design focusing on user experience and attractive aesthetics, with attention to typography, color schemes, and layout.
 This project has honed my skills in React.js, focusing on building scalable and interactive interfaces, as well as reinforcing best practices in front-end development. Looking forward to continuously evolving this app with more advanced Backend features.
 This version highlights the technical aspects, design quality, and user experience improvements of the project!
+
 Skills: React.js · HTML5 · Cascading Style Sheets (CSS) · Microsoft Visual Studio Code · JavaScript · Programming · Project Management · Software Project Management · Project Planning · Website Building · Responsive Web Design · Web Development · Front-End Development
